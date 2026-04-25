@@ -1,4 +1,4 @@
-# Hi 👋, I'm Wesam Fathy
+# Hi 👋, I'm Wesam Omar
 
 ### 💻 Data Science Student | Machine Learning Enthusiast | Flutter Developer
 
