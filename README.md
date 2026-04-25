@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wesam Omar
 
-### 💻 Data Science Student | Machine Learning Enthusiast | Flutter Developer
+### 💻 Data Science Student | Machine Learning Enthusiast | AI Enthusiast| Trainee @Digilians
 
 [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Coming%20Soon-blue)](#)
 
