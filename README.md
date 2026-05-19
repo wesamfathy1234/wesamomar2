@@ -1,17 +1,18 @@
 # Hi 👋, I'm Wesam Omar
 
-### 💻 Data Science Student | Machine Learning Enthusiast | AI Enthusiast| Trainee @Digilians
+### 💻 Data Science Student | Machine Learning Enthusiast | AI Enthusiast | Trainee @Digilians
 
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Coming%20Soon-blue)](#)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-blue)](https://wesam-ai-canvas.lovable.app/)
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Sc. in Data Science  at Alexandria University  (GPA: 3.53/4.0)
--Python, SQL, R, Node.js, Java (OOP), TensorFlow, Scikit-learn
--🤖 Built Intelligent Tourism App: Flutter + Node.js + MySQL + Firebase + TensorFlow CV (92% accuracy)
--👩‍🏫 Instructor teaching 100+ students Python & ML
--📊 Experienced in handling large datasets (50k+ records) and feature engineering using SAS Viya
+- 🎓 B.Sc. in Data Science at Alexandria University (GPA: 3.53/4.0)  
+- 💡 Skills: Python, SQL, R, Node.js, Java (OOP), TensorFlow, Scikit-learn  
+- 🤖 Built Intelligent Tourism App: Flutter + Node.js + MySQL + Firebase + TensorFlow CV (92% accuracy)  
+- 👩‍🏫 Instructor teaching 100+ students Python & ML  
+- 📊 Experienced in handling large datasets (50k+ records) and feature engineering using SAS Viya  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -43,7 +44,8 @@
 ---
 
 ### 🏥 Hospital Management System 
-– Python + SQLite GUI, 1,200+ records, 500+ daily transactions, 100% accuracy
+- Python + SQLite GUI, 1,200+ records, 500+ daily transactions, 100% accuracy  
+
 ---
 
 ### 🌐 Computer Network Simulation
@@ -55,14 +57,15 @@
 
 ## 🏆 Certifications & Learning
 
-- 🌍 Machine Learning & Climate Change – SRTA-City (City of Scientific Research and Technological Applications)  
+- 🌍 Machine Learning & Climate Change – SRTA-City  
 - 📊 Machine Learning Using SAS Viya – SAS  
 - 💻 Computer Science Camp – PES  
 - 🗄️ Database Fundamentals – Mahara Tech  
-- 🏭 Training Program – Alexandria National Refining & Petrochemical Company (ANRPC)  
-- 📈 Fundamentals of Digital Marketing – Maharat min Google (in partnership with Banque Misr)  
+- 🏭 Training Program – ANRPC  
+- 📈 Fundamentals of Digital Marketing – Maharat min Google  
+
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: (www.linkedin.com/in/wesam-omar22)
-- 📧 Email: (wesamfathyomar@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/wesam-omar22  
+- 📧 Email: wesamfathyomar@gmail.com  
